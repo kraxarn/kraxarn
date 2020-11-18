@@ -1,5 +1,7 @@
-### hi it's me, kraxie :3
+### Hi :3
 
-basically everything i develop gets uploaded here, so expect a lot of weird stuff that doesn't make much sense. my current main project is [spotify-qt](https://github.com/kraxarn/spotify-qt), a lightweight and fast spotify client. it's a work-in-progress, but it's quite usable. check it out if you want to, or not, i'm not your mom.
+I'm kraxie, or Emma, a computer engineer.
 
-my names, kraxarn and kraxie, are both spelled in all lower-case.
+Basically everything i develop gets uploaded here, so expect a lot of stuff that doesn't make much sense. My current main project is [spotify-qt](https://github.com/kraxarn/spotify-qt), a lightweight and fast Spotify client. It's a work-in-progress, but it's quite usable. Check it out if you want to, or not, I'm not your mom.
+
+My names, kraxarn and kraxie, are both spelled in all lower-case.
