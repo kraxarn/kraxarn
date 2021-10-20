@@ -1,4 +1,4 @@
-### Hi 🐦
+### Hi :bird:
 
 I'm kraxie, a professional software engineer, computer engineer and game developer.
 
