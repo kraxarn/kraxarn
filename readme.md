@@ -6,4 +6,4 @@ My current main project is [spotify-qt](https://github.com/kraxarn/spotify-qt), 
 
 My names, kraxarn and kraxie, are both spelled in all lower-case.
 
-*she/her*
+###### *she/her*
