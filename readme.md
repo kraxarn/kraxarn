@@ -6,4 +6,7 @@ My current main project is [spotify-qt](https://github.com/kraxarn/spotify-qt), 
 
 I currently primarily write code in C++ in my free time, as well as C# and TypeScript professionally.
 
+*Sorry if I'm slow to respond! I do appreciate comments and contributions a lot, but I may not always have the social energy to reply. 
+Don't worry though, I'll get back to you when I can! Thank you! <3*
+
 My names, kraxarn and kraxie, are both spelled in all lower-case.
