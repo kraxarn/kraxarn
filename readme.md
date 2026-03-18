@@ -2,7 +2,7 @@
 
 I'm kraxie, a professional software engineer, embedded systems engineer, computer engineer and game developer.
 
-My current main project is [spotify-qt](https://github.com/kraxarn/spotify-qt), a lightweight and fast Spotify client. It's a work-in-progress, but it's quite usable. Check it out if you want to, or not, you can do what you want.
+My current main project is [spotify-qt](https://github.com/kraxarn/spotify-qt), a lightweight and fast Spotify client. It's a work-in-progress, but it's quite usable. Check it out if you want to, or not, I'm not the boss of you.
 
 I currently primarily write code in C/C++ in my free time, as well as C# and TypeScript professionally.
 
